@@ -51,7 +51,7 @@ metadata:
     allow.http: "false"
 spec:
   rules:
-  - host: 192.168.18.10
+  - host: localhost
     http:
       paths:
         - path: /
