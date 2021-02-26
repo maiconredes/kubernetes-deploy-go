@@ -57,4 +57,4 @@ spec:
         - path: /
           backend:
             serviceName: go-service
-            servicePort: 80:8083
+            servicePort: 8083
